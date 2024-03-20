@@ -1,7 +1,8 @@
 **Author - Chaudhari abkadar**
+
 **Note: If it does not then the problem is API. It must have been expired. You can use Different dummy API**
 
-** Google Employee Directory**
+**Google Employee Directory**
 
 This project fetches employee data from the Google Employee API and dynamically adds it to the DOM using JavaScript. 
 Explore the directory of Google employees with ease and efficiency.
